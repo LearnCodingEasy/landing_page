@@ -86,7 +86,7 @@
 <div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">LICENSE</span>
 <span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text"><pre v-pre><code><span class="line">MIT License</span>
-<span class="line">Copyright (c) 2024 Hossam Rashad</span>
+<span class="line">Copyright (c) 2025 Hossam Rashad</span>
 <span class="line">📍 +0201091642528</span>
 <span class="line">📍 +0201101853042</span>
 <span class="line"></span></code></pre>
