@@ -17,19 +17,19 @@ Awesome Landing Page
 
 1. Typescript
 
-# Font
-
-[View]()
-
-# Icon
-
 - primevue Icons
   [View](https://primevue.org/icons/)
 
 # Plugins
 
-- Scroll Reveal
-  [View](https://scrollrevealjs.org/guide/hello-world.html)
+- Primevue
+  [View](https://primevue.org/)
+
+- Tailwindcss
+  [View](https://tailwindcss.com/)
+
+- Scroll Aos
+  [View](https://michalsnik.github.io/aos/)
 
 ```
 npm install
