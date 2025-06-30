@@ -17,6 +17,8 @@ Awesome Landing Page
 
 1. Typescript
 
+# Icons
+
 - primevue Icons
   [View](https://primevue.org/icons/)
 
